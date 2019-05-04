@@ -1,0 +1,44 @@
+/* pages/home/home.wxss */
+swiper-item image{
+  width: 100%;
+}
+.navs{
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  background-color:#fff;
+  margin-bottom: 10px;
+}
+.nav-item{
+  width: 25%;
+  padding: 10px;
+  display: inline-block;
+  text-align: center;
+  box-sizing: border-box;
+}
+.iconPic{
+  width: 88rpx;
+  height: 88rpx;
+}
+.iconTitle{
+  color: #666;
+  font-size: 14px;
+}
+.article{
+  background-color: #fff;
+  padding: 0;
+}
+.article-item{
+  padding-bottom: 10px;
+  width: 100%;
+}
+.articlePic{
+ width: 747rpx;
+}
+.articleTitle{
+  color: #666;
+  font-size: 14px;
+  padding-left: 10px;
+}
+
+
